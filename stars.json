@@ -13,7 +13,7 @@
   },
   {
     "full_name": "tonsky/FiraCode",
-    "stargazers_count": 77861,
+    "stargazers_count": 77901,
     "open_issues_count": 403,
     "forks_count": 3118
   },
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "graphql/graphiql",
-    "stargazers_count": 16201,
+    "stargazers_count": 16210,
     "open_issues_count": 398,
     "forks_count": 1731
   },
@@ -33,19 +33,19 @@
     "full_name": "jamstack-cms/jamstack-ecommerce",
     "stargazers_count": 1936,
     "open_issues_count": 22,
-    "forks_count": 424
+    "forks_count": 425
   },
   {
     "full_name": "11ty/eleventy",
-    "stargazers_count": 17506,
-    "open_issues_count": 414,
+    "stargazers_count": 17526,
+    "open_issues_count": 411,
     "forks_count": 501
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 943,
     "open_issues_count": 0,
-    "forks_count": 1066
+    "forks_count": 1068
   },
   {
     "full_name": "open-sauced/slaybot",
@@ -61,13 +61,13 @@
   },
   {
     "full_name": "bvaughn/react-error-boundary",
-    "stargazers_count": 7139,
-    "open_issues_count": 5,
+    "stargazers_count": 7151,
+    "open_issues_count": 2,
     "forks_count": 211
   },
   {
     "full_name": "checkly/headless-recorder",
-    "stargazers_count": 15068,
+    "stargazers_count": 15070,
     "open_issues_count": 1,
     "forks_count": 721
   },
@@ -97,15 +97,15 @@
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 64623,
-    "open_issues_count": 923,
-    "forks_count": 8256
+    "stargazers_count": 64663,
+    "open_issues_count": 916,
+    "forks_count": 8262
   },
   {
     "full_name": "typicode/lowdb",
-    "stargazers_count": 21697,
+    "stargazers_count": 21715,
     "open_issues_count": 12,
-    "forks_count": 932
+    "forks_count": 933
   },
   {
     "full_name": "babel/actions",
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "fatih/vim-go",
-    "stargazers_count": 16058,
+    "stargazers_count": 16064,
     "open_issues_count": 37,
     "forks_count": 1444
   },
@@ -157,8 +157,8 @@
   },
   {
     "full_name": "gatsbyjs/gatsby",
-    "stargazers_count": 55571,
-    "open_issues_count": 397,
-    "forks_count": 10308
+    "stargazers_count": 55576,
+    "open_issues_count": 396,
+    "forks_count": 10311
   }
 ]
