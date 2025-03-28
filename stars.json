@@ -13,20 +13,20 @@
   },
   {
     "full_name": "tonsky/FiraCode",
-    "stargazers_count": 78485,
+    "stargazers_count": 78532,
     "open_issues_count": 407,
-    "forks_count": 3127
+    "forks_count": 3126
   },
   {
     "full_name": "github-craftwork/start-here",
     "stargazers_count": 98,
-    "open_issues_count": 61,
-    "forks_count": 105
+    "open_issues_count": 60,
+    "forks_count": 104
   },
   {
     "full_name": "graphql/graphiql",
-    "stargazers_count": 16343,
-    "open_issues_count": 413,
+    "stargazers_count": 16347,
+    "open_issues_count": 414,
     "forks_count": 1747
   },
   {
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "11ty/eleventy",
-    "stargazers_count": 17830,
+    "stargazers_count": 17848,
     "open_issues_count": 434,
-    "forks_count": 512
+    "forks_count": 511
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 947,
     "open_issues_count": 0,
-    "forks_count": 1088
+    "forks_count": 1089
   },
   {
     "full_name": "open-sauced/slaybot",
@@ -57,17 +57,17 @@
     "full_name": "sindresorhus/css-in-readme-like-wat",
     "stargazers_count": 5135,
     "open_issues_count": 1,
-    "forks_count": 1822
+    "forks_count": 1820
   },
   {
     "full_name": "bvaughn/react-error-boundary",
-    "stargazers_count": 7290,
+    "stargazers_count": 7297,
     "open_issues_count": 2,
     "forks_count": 213
   },
   {
     "full_name": "checkly/headless-recorder",
-    "stargazers_count": 15115,
+    "stargazers_count": 15117,
     "open_issues_count": 1,
     "forks_count": 724
   },
@@ -91,21 +91,21 @@
   },
   {
     "full_name": "sveltejs/sapper",
-    "stargazers_count": 6980,
+    "stargazers_count": 6981,
     "open_issues_count": 259,
     "forks_count": 432
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 65739,
-    "open_issues_count": 1047,
-    "forks_count": 8431
+    "stargazers_count": 65812,
+    "open_issues_count": 1053,
+    "forks_count": 8439
   },
   {
     "full_name": "typicode/lowdb",
-    "stargazers_count": 21931,
+    "stargazers_count": 21939,
     "open_issues_count": 13,
-    "forks_count": 943
+    "forks_count": 944
   },
   {
     "full_name": "babel/actions",
@@ -135,7 +135,7 @@
     "full_name": "fatih/vim-go",
     "stargazers_count": 16095,
     "open_issues_count": 40,
-    "forks_count": 1436
+    "forks_count": 1437
   },
   {
     "full_name": "brandonweiss/charge",
@@ -157,8 +157,8 @@
   },
   {
     "full_name": "gatsbyjs/gatsby",
-    "stargazers_count": 55779,
-    "open_issues_count": 414,
+    "stargazers_count": 55784,
+    "open_issues_count": 417,
     "forks_count": 10297
   }
 ]
