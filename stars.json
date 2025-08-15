@@ -13,9 +13,9 @@
   },
   {
     "full_name": "tonsky/FiraCode",
-    "stargazers_count": 79846,
-    "open_issues_count": 415,
-    "forks_count": 3168
+    "stargazers_count": 79887,
+    "open_issues_count": 416,
+    "forks_count": 3169
   },
   {
     "full_name": "github-craftwork/start-here",
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "graphql/graphiql",
-    "stargazers_count": 16587,
-    "open_issues_count": 355,
-    "forks_count": 1777
+    "stargazers_count": 16590,
+    "open_issues_count": 356,
+    "forks_count": 1778
   },
   {
     "full_name": "jamstack-cms/jamstack-ecommerce",
@@ -37,8 +37,8 @@
   },
   {
     "full_name": "11ty/eleventy",
-    "stargazers_count": 18607,
-    "open_issues_count": 428,
+    "stargazers_count": 18634,
+    "open_issues_count": 431,
     "forks_count": 542
   },
   {
@@ -61,13 +61,13 @@
   },
   {
     "full_name": "bvaughn/react-error-boundary",
-    "stargazers_count": 7620,
+    "stargazers_count": 7625,
     "open_issues_count": 1,
     "forks_count": 218
   },
   {
     "full_name": "checkly/headless-recorder",
-    "stargazers_count": 15158,
+    "stargazers_count": 15161,
     "open_issues_count": 1,
     "forks_count": 723
   },
@@ -91,19 +91,19 @@
   },
   {
     "full_name": "sveltejs/sapper",
-    "stargazers_count": 6976,
+    "stargazers_count": 6975,
     "open_issues_count": 259,
     "forks_count": 420
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 68997,
-    "open_issues_count": 1149,
-    "forks_count": 8843
+    "stargazers_count": 69039,
+    "open_issues_count": 1150,
+    "forks_count": 8848
   },
   {
     "full_name": "typicode/lowdb",
-    "stargazers_count": 22215,
+    "stargazers_count": 22225,
     "open_issues_count": 16,
     "forks_count": 954
   },
@@ -123,7 +123,7 @@
     "full_name": "FredKSchott/snowpack",
     "stargazers_count": 19422,
     "open_issues_count": 388,
-    "forks_count": 914
+    "forks_count": 913
   },
   {
     "full_name": "DigitalOptimizationGroup/cloudflare-edge-proxy",
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "fatih/vim-go",
-    "stargazers_count": 16162,
+    "stargazers_count": 16159,
     "open_issues_count": 41,
     "forks_count": 1435
   },
@@ -157,8 +157,8 @@
   },
   {
     "full_name": "gatsbyjs/gatsby",
-    "stargazers_count": 55914,
-    "open_issues_count": 441,
-    "forks_count": 10286
+    "stargazers_count": 55915,
+    "open_issues_count": 356,
+    "forks_count": 10283
   }
 ]
