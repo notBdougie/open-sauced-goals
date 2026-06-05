@@ -1,13 +1,13 @@
 [
   {
     "full_name": "papercomputeco/tapes",
-    "stargazers_count": 237,
-    "open_issues_count": 13,
+    "stargazers_count": 238,
+    "open_issues_count": 14,
     "forks_count": 22
   },
   {
     "full_name": "open-sauced/app",
-    "stargazers_count": 461,
+    "stargazers_count": 462,
     "open_issues_count": 328,
     "forks_count": 227
   },
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "tonsky/FiraCode",
-    "stargazers_count": 81687,
+    "stargazers_count": 81694,
     "open_issues_count": 428,
-    "forks_count": 3187
+    "forks_count": 3186
   },
   {
     "full_name": "github-craftwork/start-here",
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "graphql/graphiql",
-    "stargazers_count": 16832,
-    "open_issues_count": 391,
-    "forks_count": 1837
+    "stargazers_count": 16836,
+    "open_issues_count": 393,
+    "forks_count": 1840
   },
   {
     "full_name": "jamstack-cms/jamstack-ecommerce",
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "11ty/eleventy",
-    "stargazers_count": 19670,
-    "open_issues_count": 180,
-    "forks_count": 583
+    "stargazers_count": 19679,
+    "open_issues_count": 174,
+    "forks_count": 584
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 953,
     "open_issues_count": 0,
-    "forks_count": 1172
+    "forks_count": 1171
   },
   {
     "full_name": "open-sauced/slaybot",
@@ -67,13 +67,13 @@
   },
   {
     "full_name": "bvaughn/react-error-boundary",
-    "stargazers_count": 7942,
+    "stargazers_count": 7944,
     "open_issues_count": 0,
     "forks_count": 224
   },
   {
     "full_name": "checkly/headless-recorder",
-    "stargazers_count": 15283,
+    "stargazers_count": 15284,
     "open_issues_count": 1,
     "forks_count": 732
   },
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 72289,
-    "open_issues_count": 683,
-    "forks_count": 9743
+    "stargazers_count": 72316,
+    "open_issues_count": 641,
+    "forks_count": 9750
   },
   {
     "full_name": "typicode/lowdb",
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "fatih/vim-go",
-    "stargazers_count": 16252,
+    "stargazers_count": 16234,
     "open_issues_count": 45,
     "forks_count": 1425
   },
@@ -164,7 +164,7 @@
   {
     "full_name": "gatsbyjs/gatsby",
     "stargazers_count": 55950,
-    "open_issues_count": 387,
-    "forks_count": 10185
+    "open_issues_count": 386,
+    "forks_count": 10183
   }
 ]
